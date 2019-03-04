@@ -1,0 +1,18 @@
+h2
+{
+  background-color: yellow;
+  font-family: Times new roman;
+  font-size:105%;
+   
+}
+p.error
+{
+  color:black;
+  font-size:125%;
+  padding:30px;
+  left:178px;
+	height:50px;
+	width:100px;
+	top:25px;
+}
+
